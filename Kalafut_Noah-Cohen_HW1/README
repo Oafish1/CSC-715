@@ -1,0 +1,11 @@
+Kalafut_Noah-Cohen_HW1-Source.zip
+Raw LaTeX version of the solutions
+
+Kalafut_Noah-Cohen_HW1.pdf
+Solutions and commentary on the problems given
+
+HW1.ipynb
+Code for parts A-C of the hw in a python3 Jupyter notebook.  Requires matplotlib
+
+hw_1.py
+Same as HW1.ipynb but in file form.  Will output images.  Be sure to close out the images for the program to continue!
